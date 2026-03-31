@@ -36,13 +36,15 @@ Pandas · NumPy · Matplotlib · Seaborn 
 * **Tools & Workflow**
 Slurm · Git · GitHub
 
+
 ## 📂 Featured Projects
 
-| Project                                                                                 | Brief                                                                                                                                        | Stack                                               |
-| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| [3-SAT Optimization](https://github.com/lorenzo-de-santis/3sat-simulated-annealing)     | Simulated Annealing solver for 3-SAT with empirical phase transition analysis and identification of the algorithmic threshold (M/N ≈ 4.05)   | Python · NumPy · Optimization · Simulated Annealing |
-| [Airbnb Price Prediction](https://github.com/lorenzo-de-santis/Airbnb-Price-Prediction-with-ML-Feature-Engineering) | Machine learning model for Airbnb price prediction using feature engineering, gradient boosting, and SHAP-based interpretability (R² ≈ 0.75) | KNIME · ML · SHAP · Feature Engineering             |
-| [Credit Risk Prediction](https://github.com/lorenzo-de-santis/Credit-Risk-Prediction)   | End-to-end ML pipeline for credit default prediction with KNN-based imputation, feature engineering, and model comparison (AUC ≈ 0.86–0.87)  | Python · Scikit-learn · XGBoost · Neural Networks   |
+| Project                                                                                 | Brief                                                                                                                        | Stack                                               |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [3-SAT Optimization](https://github.com/lorenzo-de-santis/3sat-simulated-annealing)     | Simulated Annealing solver for the 3-SAT problem with empirical analysis of phase transition in satisfiability               | Python · NumPy · Optimization · Simulated Annealing |
+| [Airbnb Price Prediction](https://github.com/lorenzo-de-santis/Airbnb-Price-Prediction-with-ML-Feature-Engineering) | Machine learning pipeline for Airbnb price prediction using feature engineering and model interpretability techniques        | KNIME · ML · SHAP · Feature Engineering             |
+| [Credit Risk Prediction](https://github.com/lorenzo-de-santis/Credit-Risk-Prediction)   | End-to-end machine learning pipeline for credit default prediction with data preprocessing, imputation, and model comparison | Python · Scikit-learn · XGBoost · Neural Networks   |
+
 
 
 ## 🤝 Connect with Me
