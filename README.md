@@ -39,7 +39,10 @@ Slurm · Git · GitHub
 
 ## 📂 Featured Projects
 
-*(coming soon — building high-impact ML projects)*
+| Project                                                                             | Brief                                                                                                                                      | Stack                                               |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| [3-SAT Optimization](https://github.com/lorenzo-de-santis/3sat-simulated-annealing) | Simulated Annealing solver for 3-SAT with empirical phase transition analysis and identification of the algorithmic threshold (M/N ≈ 4.05) | Python · NumPy · Optimization · Simulated Annealing |
+
 
 ## 🤝 Connect with Me
 
