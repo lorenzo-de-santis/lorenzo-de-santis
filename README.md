@@ -4,7 +4,7 @@
 
 * 🎓 **Education:**
 
-  * MSc in Data Analytics & AI in Healthcare @ Bocconi University & Humanitas University (2025 – Expected July 2027)
+  * MSc in Data Analytics & AI in Healthcare @ Bocconi University & @Humanitas University (2025 – Expected July 2027)
   * BSc in CS & Economics @ Bocconi University (2022 – 2025)
 
 * 🧠 **Focus:** Machine Learning, AI in Healthcare, Statistical Modeling
