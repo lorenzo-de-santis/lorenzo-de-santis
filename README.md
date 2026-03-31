@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Lorenzo 👋
 
-<!--
-**lorenzo-de-santis/lorenzo-de-santis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 **Education:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * MSc in Data Analytics & AI in Healthcare @ Bocconi University & Humanitas University (2025 – Expected July 2027)
+  * BSc in CS & Economics @ Bocconi University (2022 – 2025)
+
+* 🧠 **Focus:** Machine Learning, AI in Healthcare, Statistical Modeling
+
+* 🌍 **Location:** Milan, Italy
+
+* 🎿 **Ski enthusiast** (always up for a run or a data challenge)
+
+## 💡 What I'm Working On
+
+* ML models for healthcare applications
+* Data-driven decision systems
+* Optimization & predictive modeling
+
+## 🛠️ Tech Stack
+
+* Python (pandas, numpy, sklearn, pytorch)
+* SQL
+* Data Visualization (matplotlib, seaborn)
+* Git & GitHub
+
+## 📂 Featured Projects
+
+*(coming soon — building high-impact ML projects)*
+
+## 📫 Connect with Me
+
+* LinkedIn: [your link]
+* Email: [your email]
