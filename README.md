@@ -36,9 +36,6 @@ Pandas · NumPy · Matplotlib · Seaborn 
 * **Tools & Workflow**
 Slurm · Git · GitHub
 
-
-## 📂 Featured Projects
-
 ## 📂 Featured Projects
 
 | Project                                                                                 | Brief                                                                                                                                        | Stack                                               |
