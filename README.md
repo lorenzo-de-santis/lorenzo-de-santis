@@ -24,16 +24,16 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Query**
+* **Languages & Query**
 Python · R · SQL · KNIME · Excel · ARIS 
 
-**Machine Learning & Optimization**
+* **Machine Learning & Optimization**
 PyTorch (incl. PyTorch Geometric) · Scikit-learn · Optuna 
 
-**Data Analysis & Visualization**
+* **Data Analysis & Visualization**
 Pandas · NumPy · Matplotlib · Seaborn 
 
-**Tools & Workflow**
+* **Tools & Workflow**
 Slurm · Git · GitHub
 
 
