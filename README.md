@@ -30,8 +30,15 @@
 
 *(coming soon — building high-impact ML projects)*
 
-## 📫 Connect with Me
+## 🤝 Connect with Me
 
-* LinkedIn: www.linkedin.com/in/lorenzo-de-santis-99533432a
-* Email: desantis.lorenzo.2002@gmail.com
+<p>
+  <a href="mailto:desantis.lorenzo.2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lorenzo-de-santis-99533432a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
   
