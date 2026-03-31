@@ -32,5 +32,6 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: [your link]
-* Email: [your email]
+* LinkedIn: www.linkedin.com/in/lorenzo-de-santis-99533432a
+* Email: desantis.lorenzo.2002@gmail.com
+  
