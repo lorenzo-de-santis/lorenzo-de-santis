@@ -24,10 +24,18 @@
 
 ## 🛠️ Tech Stack
 
-* Python (pandas, numpy, sklearn, pytorch)
-* SQL
-* Data Visualization (matplotlib, seaborn)
-* Git & GitHub
+**Languages & Query**
+Python · R · SQL · KNIME · Excel · ARIS 
+
+**Machine Learning & Optimization**
+PyTorch (incl. PyTorch Geometric) · Scikit-learn · Optuna 
+
+**Data Analysis & Visualization**
+Pandas · NumPy · Matplotlib · Seaborn 
+
+**Tools & Workflow**
+Slurm · Git · GitHub
+
 
 ## 📂 Featured Projects
 
