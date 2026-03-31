@@ -42,6 +42,9 @@ Slurm · Git · GitHub
 | Project                                                                             | Brief                                                                                                                                      | Stack                                               |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
 | [3-SAT Optimization](https://github.com/lorenzo-de-santis/3sat-simulated-annealing) | Simulated Annealing solver for 3-SAT with empirical phase transition analysis and identification of the algorithmic threshold (M/N ≈ 4.05) | Python · NumPy · Optimization · Simulated Annealing |
+| Project                                                                                 | Brief                                                                                                                                        | Stack                                   |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [Airbnb Price Prediction](https://github.com/lorenzo-de-santis/airbnb-price-prediction) | Machine learning model for Airbnb price prediction using feature engineering, gradient boosting, and SHAP-based interpretability (R² ≈ 0.75) | KNIME · ML · SHAP · Feature Engineering |
 
 
 ## 🤝 Connect with Me
