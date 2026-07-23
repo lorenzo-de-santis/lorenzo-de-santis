@@ -44,7 +44,7 @@ Slurm · Git · GitHub
 | [3-SAT Optimization](https://github.com/lorenzo-de-santis/3sat-simulated-annealing)     | Simulated Annealing solver for the 3-SAT problem with empirical analysis of phase transition in satisfiability               | Python · NumPy · Optimization · Simulated Annealing |
 | [Airbnb Price Prediction](https://github.com/lorenzo-de-santis/Airbnb-Price-Prediction-with-ML-Feature-Engineering) | Machine learning pipeline for Airbnb price prediction using feature engineering and model interpretability techniques        | KNIME · ML · SHAP · Feature Engineering             |
 | [Credit Risk Prediction](https://github.com/lorenzo-de-santis/Credit-Risk-Prediction)   | End-to-end machine learning pipeline for credit default prediction with data preprocessing, imputation, and model comparison | Python · Scikit-learn · XGBoost · Neural Networks   |
-
+| [Satellite Building Change Detection](https://github.com/lorenzo-de-santis/satellite-building-change-detection) | Deep learning pipeline for satellite building change detection on LEVIR-CD, comparing Simple CNN, U-Net, and Siamese Temporal Attention U-Net | Python · PyTorch · Computer Vision · Remote Sensing |
 
 
 ## 🤝 Connect with Me
