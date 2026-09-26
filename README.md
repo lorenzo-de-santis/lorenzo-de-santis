@@ -28,7 +28,7 @@
 Python · R · SQL · KNIME · Excel · ARIS 
 
 * **Machine Learning & Optimization**
-PyTorch (incl. PyTorch Geometric) · Scikit-learn · Optuna 
+PyTorch (incl. PyTorch Geometric) · Scanpy · Scikit-learn · Optuna 
 
 * **Data Analysis & Visualization**
 Pandas · NumPy · Matplotlib · Seaborn 
