@@ -11,7 +11,7 @@
 
 * 🌍 **Location:** Milan, Italy
 
-* 🎿 **Ski enthusiast** (always up for a run or a data challenge)
+* 🎿 **Ski enthusiast** always up for a run (or a data challenge)
 
 ## 💡 What I'm Working On
 
