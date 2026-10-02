@@ -16,7 +16,7 @@
 ## 💡 What I'm Working On
 
 * 🧬 **Graph & Sheaf Neural Networks for TP53 Mutation Analysis**
-  Multi-class classification of TP53 mutations from single-cell RNA-seq data and prediction of drug response using advanced graph-based deep learning models
+  Cassification of TP53 mutations from single-cell RNA-seq data and prediction of drug response using advanced graph-based deep learning models
 
 * 🧪 **Digital Twin of Tumor (Adenocarcinoma) — Project Lead @ BSML**
   Leading the development of a computational digital twin to model tumor behavior and support personalized treatment strategies
